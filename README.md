@@ -42,4 +42,4 @@ HealthTrack permet à l'utilisateur de suivre au quotidien :
 
 ## 👤 Auteur
 
-Projet réalisé par : **[Votre Prénom Nom]**
+Projet réalisé par : **[noureddinebahlous]**
